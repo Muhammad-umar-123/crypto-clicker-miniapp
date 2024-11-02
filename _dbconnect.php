@@ -1,5 +1,5 @@
 <?php
-$tg_token = "";
+$tg_token = "8087444869:AAEGg_Xu6U1ievH0FAr9_wJHF-ZivuctQ5Y";
 
 $dbhost = 'localhost';
 $dbuser = '';
